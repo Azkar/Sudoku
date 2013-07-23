@@ -1,0 +1,8 @@
+"From Wikipedia:
+-General Gameplay-
+
+The objective is to fill a 9x9 grid so that each column, each row, and each of the nine 3x3 boxes contains the digits from 1 to 9. The puzzle setter provides a partially completed grid.
+
+-Controls-
+You are to drag and drop the number into the specified box, double click to remove a number from that box.
+"
